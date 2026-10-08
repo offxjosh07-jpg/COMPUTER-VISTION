@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:0EA5E9,100:06B6D4&height=220&section=header&text=COMPUTER%20VISION&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Multi-Camera%20Video%20Intelligence&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:0EA5E9,100:06B6D4&height=220&section=header&text=VIGILENSE%20AI&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Multi-Camera%20Video%20Intelligence&descAlignY=62&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&pause=700&color=38BDF8&center=true&vCenter=true&width=900&height=55&lines=See+More.+Search+Faster.;Ask+Your+Cameras+What+Happened.;Computer+Vision+%2B+AI;Find+the+Event.+See+the+Evidence." alt="Typing Animation"/>
 
@@ -15,25 +15,93 @@
 
 ---
 
-# 🎥 COMPUTER VISION
+# 🎥 VIGILENSE AI
 
 ### Multi-Camera Video Intelligence
 
 > **Ask. Find. See. Verify.**
 
+Vigilense AI is a **Computer Vision + AI** system built for:
+
+**HNX26EPS05 — Multi-Stream Video Intelligence with Conversational Query**
+
+It transforms recorded CCTV footage into searchable events and allows users to ask questions using natural language.
+
+### Example
+
+> **"Did a red car pass through the main gate?"**
+
+The system finds:
+
+**Camera → Timestamp → Event → Confidence → Evidence**
+
 ---
 
-## 01 🎯 Problem
+# ⚡ CORE IDEA
+
+```text
+🎥 Video
+   ↓
+✂️ Segmentation
+   ↓
+🖼️ Frame Processing
+   ↓
+🤖 Computer Vision
+   ↓
+📦 Event Indexing
+   ↓
+💬 Natural-Language Query
+   ↓
+🔎 Retrieval
+   ↓
+🎬 Evidence
+   ↓
+👤 Human Review
+```
+
+---
+
+# 🎯 01 — Problem
 
 **Searching hours of CCTV manually is slow.**
 
-Computer Vision converts:
+### Traditional CCTV
 
-`Hours of Video → Searchable Events`
+```text
+Hours of Video
+      ↓
+Manual Watching
+      ↓
+Camera-by-Camera Search
+      ↓
+Find Event
+      ↓
+Find Timestamp
+      ↓
+Check Footage
+      ↓
+Human Decision
+```
+
+### Vigilense AI
+
+```text
+Natural-Language Query
+          ↓
+AI Understanding
+          ↓
+Event Search
+          ↓
+Camera + Timestamp
+          ↓
+Visual Evidence
+          ↓
+Human Verification
+```
 
 ---
 
-## 02 📹 Multi-Camera
+# 📹 02 — Multi-Camera
 
 Analyze multiple video sources.
 
@@ -41,15 +109,21 @@ Analyze multiple video sources.
 
 ---
 
-## 03 ✂️ Video Segmentation
+# ✂️ 03 — Video Segmentation
 
-Long recordings become manageable segments.
+Long recordings become manageable processing units.
 
-`Long Video → 60-sec Segments`
+```text
+Long CCTV
+   ↓
+60-sec Segments
+   ↓
+Efficient Processing
+```
 
 ---
 
-## 04 🤖 Computer Vision
+# 🤖 04 — Computer Vision
 
 ```text
 Video
@@ -63,7 +137,7 @@ Object Tracking
 
 ---
 
-## 05 📦 Event Intelligence
+# 📦 05 — Event Intelligence
 
 ```text
 Detection
@@ -81,7 +155,7 @@ Stores:
 
 ---
 
-## 06 💬 Natural-Language Search
+# 💬 06 — Natural-Language Search
 
 Ask normally:
 
@@ -91,7 +165,7 @@ No complicated filters required.
 
 ---
 
-## 07 🧠 Smart Memory
+# 🧠 07 — Smart Memory
 
 ```text
 Main Gate → CAM-01
@@ -101,7 +175,7 @@ The system remembers user-defined camera references for future queries.
 
 ---
 
-## 08 🔎 Instant Retrieval
+# 🔎 08 — Instant Retrieval
 
 ```text
 Query
@@ -115,7 +189,7 @@ Camera + Timestamp
 
 ---
 
-## 09 🎬 Evidence + Human Review
+# 🎬 09 — Evidence + Human Review
 
 ```text
 Camera
@@ -131,7 +205,7 @@ Human Review
 
 ---
 
-## 10 🚀 Complete Pipeline
+# 🚀 10 — Complete Pipeline
 
 ```text
 🎥 Video
@@ -178,7 +252,7 @@ Human Review
 
 <br>
 
-`COMPUTER VISION • HACKNEX 2026`
+`VIGILENSE AI • COMPUTER VISION • HACKNEX 2026`
 
 <br><br>
 
