@@ -174,7 +174,7 @@ Human Review
 
 ### 👑 TEAM
 
-**JOSH • LAKSHITH • JAYA VIGNESH • JEFFRAY**
+**JOSH • LAKSITH • JAYA VIGNESH • JEFFRAY**
 
 <br>
 
