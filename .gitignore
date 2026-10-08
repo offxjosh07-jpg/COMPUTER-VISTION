@@ -1,0 +1,44 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Video / AI generated files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.pt
+*.onnx
+
+# Generated evidence / temporary files
+storage/*
+!storage/.gitkeep
+tmp/
+temp/
+
+# Logs
+*.log
